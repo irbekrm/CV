@@ -1,5 +1,6 @@
-## Your Name
+## Irbe Krumina
 
+A full stack JavaScript developer specializing in back end.
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
 ## Skills
@@ -31,8 +32,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Node.js, Express, React, plain JavaScript
+- Ruby, Ruby on Rails, Sinatra
+- MongoDB, Postgres
+- Mocha, Chai, Nightwatch, RSpec
 
 #### Your University / College (start_date to end_date)
 
