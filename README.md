@@ -11,7 +11,7 @@ Looking for a developer role.
 | Project | Description | Technologies |
 | --- | --- | --- |
 | [Bowling score calculator](https://github.com/irbekrm/bowling-challenge/blob/master/README.md) | A Javascript/Node application. Calculates, stores and analyses user's bowling score | Node with Express, MongoDB, plain JavaScript |
-| [Chat](https://github.com/irbekrm/Chat/blob/master/README.md) | Realtime chat app | Node with ExpressJS and Socket.io, MongoDB, plain JavaScript |
+| [Chat](https://github.com/irbekrm/Chat/blob/master/README.md) | Realtime chat app with websockets| Node with ExpressJS and Socket.io, MongoDB, plain JavaScript |
 
 ## Education
 
