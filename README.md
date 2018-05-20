@@ -1,6 +1,6 @@
 ## Irbe Krumina
 
-A full stack developer specializing in back end. 
+A full stack Javascript developer.
 Looking for a developer role.
 
 
