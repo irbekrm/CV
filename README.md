@@ -1,10 +1,11 @@
 ## Irbe Krumina
 
-A full stack Javascript developer.
-Looking for a developer role.
+A full stack developer currently looking for a job. I have an arts background and initially started coding for fun, later realised that I enjoy the problem solving process very much and would like to bring it further. I am very much driven by challenge and would like to join a team that works on a complex project with some level of innovation.
 
 
 ## Skills
+
+
 
 ## Projects
 
@@ -24,10 +25,10 @@ Looking for a developer role.
 - MongoDB, Postgres
 - Mocha, Chai, RSpec
 
+#### School of Art and Design, Riga, Latvia (2004 - 2009)
+
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Krasu Aplis, Art Gallery, Liepaja, Latvia** 
+*gallery assistant/curator*  
