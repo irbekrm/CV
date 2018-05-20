@@ -1,6 +1,6 @@
 ## Irbe Krumina
 
-A full stack developer currently looking for a job. I have an arts background and initially started coding for fun, later realised that I enjoy the problem solving process very much and would like to bring it further. I am very much driven by challenge and would like to join a team that works on a complex project with some level of innovation.
+A full stack developer currently looking for a job. I have an arts background and initially started coding for fun, later realised that I enjoy the problem solving process very much and would like to bring it further. I am driven by challenge and would like to join a team that works on a complex project with some level of innovation.
 
 
 ## Skills
@@ -31,4 +31,5 @@ A full stack developer currently looking for a job. I have an arts background an
 ## Experience
 
 **Krasu Aplis, Art Gallery, Liepaja, Latvia** 
+
 *gallery assistant/curator*  
