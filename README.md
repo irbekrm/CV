@@ -1,49 +1,29 @@
 ## Irbe Krumina
 
-A full stack JavaScript developer specializing in back end.
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+A full stack developer specializing in back end. 
+Looking for a developer role.
+
 
 ## Skills
 
-#### This Skill
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+| Project | Description | Technologies |
+| --- | --- | --- |
+| [Bowling score calculator](https://github.com/irbekrm/bowling-challenge/blob/master/README.md) | A Javascript/Node application. Calculates, stores and analyses user's bowling score | Nodejs with Express, MongoDB, vanilla JavaScript |
+| [Chat](https://github.com/irbekrm/Chat/blob/master/README.md) | Realtime chat app | Node with ExpressJS and Socket.io, MongoDB, vanilla JavaScript |
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+#### Makers Academy (19/3/2018 to 9/5/2018)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Node.js, Express, React, plain JavaScript
+- JavaScript, Node.js, Express, React
 - Ruby, Ruby on Rails, Sinatra
 - MongoDB, Postgres
-- Mocha, Chai, Nightwatch, RSpec
+- Mocha, Chai, RSpec
 
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
 
 ## Experience
 
