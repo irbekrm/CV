@@ -1,7 +1,7 @@
 ## Irbe Krumina
 
 Aspiring developer who wants to tackle challenging projects, write quality software and master new skills.
-Currently actively looking for a job.
+Currently actively looking for a job
 
 ## Skills
 
@@ -24,11 +24,12 @@ Currently actively looking for a job.
 
 | Project | Description | Technologies |
 | --- | --- | --- |
-|[Final Project Websocket Livechat](https://github.com/jbropho/final-project-websocket-livechat/blob/master/README.md) | Final project for Makers Academy. Live chat app using Socket.io. Built by a team of 4 people in 8 days. | Node with Express, MongoDB, Socket.io, React|
+|[Final Project Websocket Livechat](https://github.com/jbropho/final-project-websocket-livechat/blob/master/README.md) | Final project for Makers Academy. Live chat app using Socket.io. Built by a team of four people in eight days | Node with Express, MongoDB, Socket.io, React|
 | [Bowling score calculator](https://github.com/irbekrm/bowling-challenge/blob/master/README.md) | A Javascript/Node application. Calculates, stores and analyses user's bowling score | Node with Express, MongoDB, plain JavaScript |
 |[Bank tech test](https://github.com/irbekrm/Bank/blob/master/README.md) | A tech test for Makers Academy | plain JavaScript |
-| [Guilded Rose tech test](https://github.com/irbekrm/GildedRose/blob/master/README.md) | Refactoring legacy code. A tech test for Makers Academy. | plain JavaScript |
+| [Guilded Rose tech test](https://github.com/irbekrm/GildedRose/blob/master/README.md) | Refactoring legacy code. A tech test for Makers Academy | plain JavaScript |
 
+## Education
 
 #### Makers Academy (19/3/2018 to 9/5/2018)
 
