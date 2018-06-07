@@ -1,34 +1,41 @@
 ## Irbe Krumina
 
-A full stack developer currently looking for a job. I have an arts background and initially started coding for fun, later realised that I enjoy the problem solving process very much and would like to bring it further. I am driven by challenge and would like to join a team that works on a complex project with some level of innovation.
-
+Aspiring developer who wants to tackle challenging projects, write quality software and master new skills.
+Currently actively looking for a job.
 
 ## Skills
 
+### Technical Skills
+
+- JavaScript, Node.js, Express, React
+- Ruby, Ruby on Rails, Sinatra
+- MongoDB, Postgres
+- Mocha, Chai, RSpec
+- TDD, OO
+- Agile, XP
+
+### Personal Skills
+
+- Working with a team on projects with set deadline
+- Training people
 
 
 ## Projects
 
 | Project | Description | Technologies |
 | --- | --- | --- |
+|Final Project Websocket Livechat | Final project for Makers Academy. Live chat app using Socket.io. Built by a team of 4 people in 8 days. | Node with Express, MongoDB, Socket.io, React|
 | [Bowling score calculator](https://github.com/irbekrm/bowling-challenge/blob/master/README.md) | A Javascript/Node application. Calculates, stores and analyses user's bowling score | Node with Express, MongoDB, plain JavaScript |
-| [Chat](https://github.com/irbekrm/Chat/blob/master/README.md) | Realtime chat app with websockets| Node with ExpressJS and Socket.io, MongoDB, plain JavaScript |
+|Bank Tech test | A tech test for Makers Academy | plain JavaScript |
+| Guilded Rose tech test | Refactoring legacy code. A tech test for Makers Academy. | plain JavaScript |
 
-## Education
 
 #### Makers Academy (19/3/2018 to 9/5/2018)
-
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- JavaScript, Node.js, Express, React
-- Ruby, Ruby on Rails, Sinatra
-- MongoDB, Postgres
-- Mocha, Chai, RSpec
 
 #### School of Art and Design, Riga, Latvia (2004 - 2009)
 
 
-## Experience
+## Work Experience
 
 **Krasu Aplis, Art Gallery, Liepaja, Latvia** 
 
