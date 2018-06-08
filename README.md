@@ -1,6 +1,6 @@
 ## Irbe Krumina
 
-Aspiring developer who wants to tackle challenging projects, write quality software and master new skills.
+Aspiring developer who wants to work in a team to tackle challenging projects, write quality software and master new skills.
 Currently actively looking for a job
 
 ## Skills
@@ -16,7 +16,7 @@ Currently actively looking for a job
 
 ### Personal Skills
 
-- Working with a team on projects with set deadline
+- Working with a team on projects with a set deadline
 - Training people
 
 
