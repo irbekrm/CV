@@ -1,7 +1,14 @@
 ## Irbe Krumina
 
 Aspiring developer who wants to work in a team to tackle challenging projects, write quality software and master new skills.
-Currently actively looking for a job
+Currently actively looking for a job.
+
+## Background
+
+I started coding as a hobby after playing around with a code snippet on a holiday and becoming fascinated by how you can make it do different things by only changing a few keywords or values. I then spent a lot of time on Codewars, trying to write short and fast solutions to katas.
+Makers Academy taught me a lot about how the actual software development works as well as how to create quality code that can be easily maintained, extended and used by others. 
+
+
 
 ## Skills
 
